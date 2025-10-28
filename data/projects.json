@@ -25,6 +25,7 @@
         "image": "images/pkm.JPG",
         "link": "https://www.kompasiana.com/muhammadgemilang4656/64f42c7a08a8b517685a4d92/inovasi-mahasiswa-politeknik-negeri-semarang-mendorong-kemajuan-pengrajin-tempe-di-desa-dampyak"
      },
+	 {
 	    "title": " Design  and  Construction  of  an  Internet  of  Things  Trainer  for  ESP32-Based  Sensor  Learning  Applications  with  Modbus  RS485  and LoRa  Communication  Systems  (Final  Project  -  2025)",
         "year": "2025",
 		"fund": "KEMENDIKBUD",
@@ -35,6 +36,7 @@
         "link": "https://example.com/assembly-optimization1"
      }
 ]
+
 
 
 
