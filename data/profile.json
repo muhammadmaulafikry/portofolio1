@@ -1,0 +1,39 @@
+{
+  "name": "Muhammad Maula Fikry - D3-Electronic Engineering",
+  "description": "As a professional maintainer and expert in PCB design, PLC programming, and 3D design, I have a strong background in electronics and mechatronics engineering, which allows me to develop creative and efficient solutions for a variety of projects. I also have a basis in business knowledge, which I also apply to my competencies. I have also gained in-depth knowledge and have worked in a variety of industries, demonstrating my ability to overcome technical challenges effectively.",
+  "profileImage": "images/profile.png",
+  "email": "mmuhammadmaulafikry@gmail.com" :[
+    {
+      "url": "https://mail.google.com/mail/u/3/#inbox?compose=CllgCJTLqDgrgXGPqTxzNPVXWqXdCczqLHJbCXjwZMtHtzRClxzntHlpNDcPNWFbqkMlHKvKhJq"
+    }
+  ],
+  "phone": "+62 81268204897",
+  "socialMedia": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/muhammad-maula-fikry-b77844175"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Fikry2407"
+    }
+  ],
+  "cv": {
+    "text": "Download CV",
+    "file": "docs/cv.pdf",
+    "icon": "fas fa-file-pdf"
+  },
+  "skills": [
+    { "name": "Electrical Installation", "icon": "fas fa-bolt", "level": 90 },
+    { "name": "Internet of Things", "icon": "fas fa-wifi", "level": 90 },
+    { "name": "Hardware Design", "icon": "fas fa-desktop", "level": 90 },
+    { "name": "Hardware Programming", "icon": "fas fa-microchip", "level": 90 },
+    { "name": "Robotic and Automation", "icon": "fas fa-robot", "level": 90 },
+    { "name": "Web Programming", "icon": "fab fa-js", "level": 85 },
+    { "name": "Project Management", "icon": "fas fa-list-check", "level": 95 },
+    { "name": "Academic Writing", "icon": "fas fa-pen", "level": 90 }
+  ]
+}
+
+
+

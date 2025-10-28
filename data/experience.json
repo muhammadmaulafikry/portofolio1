@@ -1,0 +1,36 @@
+[
+    {
+        "company": "Global infolink Automation Technology",
+		"logo":"images/polines-logo.png",
+        "position": "Electrical Technician",
+        "year": "April 2022 - August 2022",
+        "description": "Coordinated project tasks to ensure compliance with engineering standards and regulations; Conducted thorough project analyses, identifying and rectifying discrepancies in engineering designs"
+    },
+	{
+        "company": "Mechatronics Bulding SMK 1",
+		"logo":"images/Mechatronic1.png",
+        "position": "Maintenence",
+        "year": "Juli 2021- December 2021",
+        "description": "Coordinating and checking equipment periodically and comprehensively Execute projects with client adjustments"
+    },
+    {
+        "company": "Ronde & Schwarz",
+		"logo":"images/rohde.png",
+        "position": "Failure Analyst",
+        "year": "Sep 2024 - Jan 2025",
+        "description": "Control the quality of electronic part production for various printer models, analyze product defects, and provide recommendations to address issues or identify potential root causes."
+    }
+	    {
+        "company": "Kakarobot ID",
+		"logo":"images/kakarobot.jpeg",
+        "position": "Failure Analyst",
+        "year": "Aug 2023 - Oct 2023",
+        "description": ""
+    }
+]
+
+
+
+
+
+

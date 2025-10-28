@@ -1,0 +1,17 @@
+[
+    {
+        "university": "State Vocational High 1 Batam",
+		"logo": "images/Mechatronic1.png",
+        "major": "Mechatronics Engineering",
+        "year": "2018 - 2022",
+        "description": "Specializing in automation, electrical wiring and 3D design"
+    },
+    {
+        "university": "Semarang State Polytechnic",
+		"logo": "images/polines.png",
+        "major": "D3 - Electrical Engineering",
+        "year": "2022 - 2025",
+        "description": "Relevant coursework in eletrical wiring and electronic design"
+    }
+]
+
