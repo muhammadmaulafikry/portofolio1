@@ -30,12 +30,12 @@
 		"fund": "KEMENDIKBUD",
         "partner": "Semarang  State  Polytechnic",
         "role": "Project Member",
-        "description": "Design and development of an ESP32-based IoT learning trainer kit integrated with various industrial sensors and Modbus RS485 and LoRa communication systems for long-distance data transmission.
-This project also features AI-based detection (YOLOv8) to complement the visual monitoring system.",
+        "description": "Design and development of an ESP32-based IoT learning trainer kit integrated with various industrial sensors and Modbus RS485 and LoRa communication systems for long-distance data transmission. This project also features AI-based detection (YOLOv8) to complement the visual monitoring system.",
         "image": "images/TA.jpeg",
         "link": "https://example.com/assembly-optimization1"
      }
 ]
+
 
 
 
