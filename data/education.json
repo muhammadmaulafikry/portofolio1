@@ -1,7 +1,7 @@
 [
     {
         "university": "State Vocational High 1 Batam",
-		"logo": "images/smk1.png",
+		"logo": "images/smkn1.png",
         "major": "Mechatronics Engineering",
         "year": "2018 - 2022",
         "description": "Specializing in automation, electrical wiring and 3D design"
@@ -14,5 +14,6 @@
         "description": "Relevant coursework in eletrical wiring and electronic design"
     }
 ]
+
 
 
